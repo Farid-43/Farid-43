@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0A6EBD&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Farid+Ahmed;A+Competitive+Programmer" alt="Typing SVG" />
 </div>
 
-
 <!-- <p align="center">
   <a href="https://github.com/farid-43">
     <img src="https://komarev.com/ghpvc/?username=farid-43&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -87,7 +86,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farid-43&theme=tokyonight" alt="farid-43" />
+  <img src="https://streak-stats.demolab.com?user=farid-43&theme=tokyonight" alt="farid-43" />
 </div>
 
 ---
@@ -95,18 +94,20 @@
 ## 🏆 Competitive Programming
 
 <p align="center">
+ <a href="https://codeforces.com/profile/void_farid" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="void_farid" />
+  </a>
+  <a href="https://www.leetcode.com/farid_ahmed_43" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="farid_ahmed_43" />
+  </a>
+
   <a href="https://www.codechef.com/users/farid_2107043" target="blank">
     <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="farid_2107043" />
   </a>
   <a href="https://www.hackerrank.com/profile/farid_2107043" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="farid ahmed" />
   </a>
-  <a href="https://codeforces.com/profile/void_farid" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="void_farid" />
-  </a>
-  <a href="https://www.leetcode.com/farid_ahmed_43" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="farid_ahmed_43" />
-  </a>
+ 
 </p>
 
 ---
